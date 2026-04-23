@@ -15,10 +15,14 @@
     font-display: swap;
 }
 
+/* Reset */
+
 * {
     margin: 0;
     padding: 0;
 }
+
+/* Estilo Desktop */
 
 body {
     background-color: #0E1014;
